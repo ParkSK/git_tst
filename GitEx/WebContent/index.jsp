@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<%= "Hello, I'm Github Chobo" %>
 </body>
 </html>
